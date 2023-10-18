@@ -1,0 +1,164 @@
+﻿
+   /*body{background-color: teal;}*/
+   .row{
+	   background-color:  teal;
+	   padding: 5%;
+	   color: #FFFFFF
+   }
+   .menu1{
+	   background-color: teal;
+	   padding: 1%;
+	   top:2%;
+	   
+   }
+   .navbar{
+	   position:absolute;
+        top:10%;
+		text-align: right;
+	   
+   }
+				
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+
+div.heading{
+position:absolute;
+top:2%;
+left:13%;
+width:30%;
+
+font-style: comic;
+color: white;
+text-align: left;
+}
+div.menu{
+	position:absolute;
+        top:10%;
+	left:40%;
+	width:45%;
+
+	font-style: comic;
+	color: #3333cc;
+	text-align: right;
+  	
+}
+div.login{
+position:absolute;
+        top:0%;
+	left:82%;
+	width:18%;
+	font-style: comic;
+	color: #3333cc;
+	text-align: right;
+  	
+}
+
+div.container{
+		
+	position:absolute;
+	top:25%;
+	left:7%;
+		}
+div.signup{
+	position:absolute;
+	top:115%;
+	left:25%;
+	text-align: center;
+  
+
+}
+div.home{
+	position:absolute;
+  	top:115%;
+	left:60%;
+  	text-align: center;
+	
+
+
+}
+/* Add a dark background color to the footer */
+
+.footer1{
+  position:absolute;
+  top:100%;
+  width:100%;
+  
+    background-color: black;
+    color: #f5f5f5;
+    padding: 0%;
+}
+
+footer a {
+    color: #f5f5f5;
+}
+
+footer a:hover {
+    color: #777;
+    text-decoration: none;
+    
+}
+
+
+.mybutton:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: 	 #00b3b3;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 28px;
+  padding: 10px;
+  width: 280px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5 px;
+margin-top:20px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+.button span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 20px;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+.foot{
+  position:absolute;
+  top:140%;
+
+
+}
+
+p{
+	font-family: "Comic Sans";
+	text-align: right;
+}
+body {
+    background-color: lightblue;
+}
+
+
+		
